@@ -7,6 +7,7 @@
 // @match        https://github.com/*/pull/*
 // @grant        none
 // @source       https://github.com/thinkall/tinytools
+// @license      MIT
 // ==/UserScript==
 
 (function() {
